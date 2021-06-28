@@ -17,7 +17,7 @@ sidebar-avatar: /img/about-MY-ava.jpg      # use absolute URL, seeing it's used 
 
 
 # SNS settings
-RSS: false
+RSS: True
 
 
 
